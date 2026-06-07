@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my [page](https://www.facebook.com/share/1CJ1MSgbLp/) to share latest updates.
-- ⭐ Become a Sponsor to my projects [here](https://github.com/sponsors/swalehmwadime)
+- 🔭 I’m currently working on my [page](https://www.facebook.com/share/1CJ1MSgbLp/)
+- ⭐ Become a [Sponsor](https://github.com/sponsors/swalehmwadime) now.
 - 🎧 Listen to [My Playlist](https://open.spotify.com/playlist/2asJUegVSo7aG0WTS33Qxs)
