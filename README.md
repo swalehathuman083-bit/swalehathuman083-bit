@@ -1,3 +1,2 @@
 ## Hi there 👋
-- ⭐ Become a [Sponsor](https://github.com/sponsors/swalehmwadime) now.
-- 🎧 Listen to [My Playlist](https://open.spotify.com/playlist/2asJUegVSo7aG0WTS33Qxs)
+- 🎧 Listen to [My Playlist](https://open.spotify.com/user/31aksbxjxua6vaq2fnxx42dhpq3y?si=4_csAPPFSLWehDi9qWoVcA)
